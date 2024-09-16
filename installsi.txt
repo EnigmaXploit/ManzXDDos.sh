@@ -1,0 +1,10 @@
+🖥🤣🖕TEEMUX🖕🤣🖥
+apt update && apt upgrade
+apt install cowsay -y
+apt install lolcat nano -y
+pkg install bash git -y
+git clone https://github.com/EnigmaXploit/ManzXDDos.sh.git
+ls
+cd $HOME
+cd ManzXDDos
+bash ManzXDDos.sh
